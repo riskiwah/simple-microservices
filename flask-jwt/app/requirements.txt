@@ -1,0 +1,6 @@
+flask==1.0.2
+flask-restful==0.3.7
+flask-jwt-extended==3.18.2
+passlib==1.7.1
+flask-sqlalchemy==2.4.0
+pymysql==0.9.3
